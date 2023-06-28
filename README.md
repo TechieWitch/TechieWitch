@@ -4,6 +4,10 @@
 - 💞️ I’m looking to network and work on a few projects for career development and job placement
 - 📫 You can reach me through this profile for now, as I'm just getting used to GitHub.
 
+Current study Cert
+https://www.sololearn.com/certificates/CC-KBEGJEO3
+and am over half way through the Intermediate level.
+
 <!---
 TechieWitch/TechieWitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
